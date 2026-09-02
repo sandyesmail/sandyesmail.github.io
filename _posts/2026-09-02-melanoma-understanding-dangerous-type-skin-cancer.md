@@ -9,9 +9,13 @@ Risk also changes with age and sex. The average age when melanoma is diagnosed i
 Melanoma is often first noticed because of a new or changing mole or spot on the skin. One common method for recognizing a suspicious mole is the ABCDE rule:
 
 A – Asymmetry: One half of the mole does not match the other.
+
 B – Border: The edges are irregular, blurred, or jagged.
+
 C – Color: The mole contains different or uneven colors.
+
 D – Diameter: The spot may be larger than about 6 millimeters, although melanomas can also be smaller.
+
 E – Evolving: The mole changes in its size, shape, color, or appearance over time.
 
 If a doctor thinks a spot could be melanoma, a biopsy is performed. This means that some or all of the suspicious tissue is removed and examined under a microscope by a pathologist. A biopsy is needed to confirm whether the cells are cancerous.
