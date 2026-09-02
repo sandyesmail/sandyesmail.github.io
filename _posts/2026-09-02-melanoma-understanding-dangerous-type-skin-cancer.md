@@ -5,6 +5,7 @@ For this blog, I chose to research melanoma, a type of skin cancer that begins i
 ## How Common Is Melanoma?
 
 Melanoma makes up only about 1% of skin cancers, but it causes a large portion of skin cancer deaths. According to the American Cancer Society, about 112,000 new cases of invasive melanoma are expected to be diagnosed in the United States in 2026. About 8,510 people are expected to die from melanoma in 2026.
+
 Risk also changes with age and sex. The average age when melanoma is diagnosed is about 67 years old, although younger people can develop it as well. Before age 50, melanoma is more common in women, while after age 50 it becomes more common in men.
 
 ## How Is Melanoma Detected?
@@ -26,6 +27,7 @@ If a doctor thinks a spot could be melanoma, a biopsy is performed. This means t
 ## What Increases the Risk of Melanoma?
 
 One of the most important risk factors for melanoma is exposure to ultraviolet (UV) radiation. UV radiation can come from sunlight as well as tanning beds. Too much UV exposure can damage the DNA inside skin cells and contribute to cancer development.
+
 Other factors that can increase someone's risk include having lighter skin, skin that burns or freckles easily, a history of sunburns or tanning, having many or unusual moles, having a personal or family history of skin cancer, and being older. However, melanoma can occur in people of any skin color.
 
 ## How Is Melanoma Staged?
@@ -45,7 +47,9 @@ Doctors commonly use the TNM staging system, which considers the primary tumor, 
 ## What Treatments Are Available?
 
 Treatment depends heavily on how advanced the melanoma is. Surgery is the main treatment for melanoma that can be completely removed. Doctors usually remove the melanoma along with some normal-looking skin surrounding it.
+
 For melanoma that has a greater chance of returning or has spread, treatment may also include immunotherapy. Immunotherapy helps the patient's immune system recognize and attack cancer cells. Drugs such as pembrolizumab may be used in certain patients.
+
 Some melanomas contain specific genetic mutations that allow doctors to use targeted therapy. These treatments target particular molecules or pathways that help the cancer cells grow. Treatment options for advanced melanoma can therefore depend on both the stage of the cancer and the biological characteristics of the tumor.
 
 ## Life Expectancy and Survival
