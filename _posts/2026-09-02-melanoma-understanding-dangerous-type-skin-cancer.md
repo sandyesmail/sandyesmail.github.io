@@ -2,9 +2,6 @@
 
 For this blog, I chose to research melanoma, a type of skin cancer that begins in melanocytes. Melanocytes are the cells that produce melanin, the pigment that gives our skin its color. I chose mel[...]
 
-![Melanoma example](https://www.cancer.gov/types/skin/melanoma-photos)
-*Image source: [National Cancer Institute - Melanoma Photos](https://www.cancer.gov/types/skin/melanoma-photos)*
-
 ## How Common Is Melanoma?
 
 Melanoma makes up only about 1% of skin cancers, but it causes a large portion of skin cancer deaths. According to the American Cancer Society, about 112,000 new cases of invasive melanoma are expe[...]
