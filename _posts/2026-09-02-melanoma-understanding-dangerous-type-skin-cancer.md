@@ -10,7 +10,8 @@ Risk also changes with age and sex. The average age when melanoma is diagnosed i
 
 ## How Is Melanoma Detected?
 ![Melanoma illustration](melanoma-1-utility.jpg)
-{: [.img-responsive](https://www.cancer.gov/types/skin/melanoma-photos) }
+
+[*National Cancer Institute*](https://www.cancer.gov/types/skin/melanoma-photos)
 
 Melanoma is often first noticed because of a new or changing mole or spot on the skin. One common method for recognizing a suspicious mole is the ABCDE rule:
 
