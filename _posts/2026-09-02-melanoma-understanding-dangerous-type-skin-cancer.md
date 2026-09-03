@@ -2,7 +2,7 @@
 
 For this blog, I chose to research melanoma, a type of skin cancer that begins in melanocytes. Melanocytes are the cells that produce melanin, the pigment that gives our skin its color. I chose melanoma because skin cancer is extremely common, and melanoma can become especially dangerous if it spreads to other parts of the body.
 
-![Melanoma illustration](/_posts/melanoma-1-utility.jpg)
+![Melanoma illustration](/images/melanoma-1-utility.jpg)
 
 [*National Cancer Institute*](https://www.cancer.gov/types/skin/melanoma-photos)
 
@@ -13,7 +13,7 @@ Melanoma makes up only about 1% of skin cancers, but it causes a large portion o
 Risk also changes with age and sex. The average age when melanoma is diagnosed is about 67 years old, although younger people can develop it as well. Before age 50, melanoma is more common in women, while after age 50 it becomes more common in men.
 
 ## How Is Melanoma Detected?
-![Melanoma illustration](melanoma-cancer-details.jpg)
+![Melanoma illustration](/images/melanoma-cancer-details.jpg)
 
 [*Global Treatment Services*](https://blog.gtsmeditour.com/melanoma-skin-cancer-causes-symptoms-treatment/)
 
