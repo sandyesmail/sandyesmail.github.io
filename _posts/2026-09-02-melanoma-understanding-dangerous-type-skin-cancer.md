@@ -2,7 +2,7 @@
 
 For this blog, I chose to research melanoma, a type of skin cancer that begins in melanocytes. Melanocytes are the cells that produce melanin, the pigment that gives our skin its color. I chose melanoma because skin cancer is extremely common, and melanoma can become especially dangerous if it spreads to other parts of the body.
 
-![Melanoma illustration](melanoma-1-utility.jpg)
+![Melanoma illustration](/_posts/melanoma-1-utility.jpg)
 
 [*National Cancer Institute*](https://www.cancer.gov/types/skin/melanoma-photos)
 
