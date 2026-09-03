@@ -2,6 +2,10 @@
 
 For this blog, I chose to research melanoma, a type of skin cancer that begins in melanocytes. Melanocytes are the cells that produce melanin, the pigment that gives our skin its color. I chose melanoma because skin cancer is extremely common, and melanoma can become especially dangerous if it spreads to other parts of the body.
 
+![Melanoma illustration](melanoma-1-utility.jpg)
+
+[*National Cancer Institute*](https://www.cancer.gov/types/skin/melanoma-photos)
+
 ## How Common Is Melanoma?
 
 Melanoma makes up only about 1% of skin cancers, but it causes a large portion of skin cancer deaths. According to the American Cancer Society, about 112,000 new cases of invasive melanoma are expected to be diagnosed in the United States in 2026. About 8,510 people are expected to die from melanoma in 2026.
@@ -9,9 +13,9 @@ Melanoma makes up only about 1% of skin cancers, but it causes a large portion o
 Risk also changes with age and sex. The average age when melanoma is diagnosed is about 67 years old, although younger people can develop it as well. Before age 50, melanoma is more common in women, while after age 50 it becomes more common in men.
 
 ## How Is Melanoma Detected?
-![Melanoma illustration](melanoma-1-utility.jpg)
+![Melanoma illustration](melanoma-cancer-details.jpg)
 
-[*National Cancer Institute*](https://www.cancer.gov/types/skin/melanoma-photos)
+[*Global Treatment Services*](https://blog.gtsmeditour.com/melanoma-skin-cancer-causes-symptoms-treatment/)
 
 Melanoma is often first noticed because of a new or changing mole or spot on the skin. One common method for recognizing a suspicious mole is the ABCDE rule:
 
