@@ -9,6 +9,8 @@ Melanoma makes up only about 1% of skin cancers, but it causes a large portion o
 Risk also changes with age and sex. The average age when melanoma is diagnosed is about 67 years old, although younger people can develop it as well. Before age 50, melanoma is more common in women, while after age 50 it becomes more common in men.
 
 ## How Is Melanoma Detected?
+![Melanoma illustration](melanoma-1-utility.jpg)
+{: [.img-responsive](https://www.cancer.gov/types/skin/melanoma-photos) }
 
 Melanoma is often first noticed because of a new or changing mole or spot on the skin. One common method for recognizing a suspicious mole is the ABCDE rule:
 
