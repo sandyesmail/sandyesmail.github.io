@@ -91,22 +91,17 @@ To me, companies like Tempus show where the future of cancer research may be hea
 
 ## Sources
 
-1. **Tempus AI – Our History**
+1. [Tempus AI – Our History](https://www.tempus.com/about-us/our-history/)  
    Founder, founding date, and the story behind the creation of Tempus.
-   https://www.tempus.com/about-us/our-history/
 
-2. **Tempus AI – 2025 Annual Report (10-K)**
+2. [Tempus AI – 2025 Annual Report (10-K)](https://investors.tempus.com/sec-filings/sec-filing/10-k/0001193125-26-066961)  
    Revenue, financial performance, business model, and company information.
-   https://investors.tempus.com/sec-filings/sec-filing/10-k/0001193125-26-066961
 
-3. **Tempus AI – xH Whole-Genome Sequencing**
-   Information about Tempus's whole-genome sequencing technology and how it is being used for hematologic cancers.
-   https://www.tempus.com/solutions/ls-xh/
+3. [Tempus AI – xH Whole-Genome Sequencing](https://www.tempus.com/solutions/ls-xh/)  
+   Information about Tempus's whole-genome sequencing technology and its use in hematologic cancers.
 
-4. **Tempus AI – xH Whole-Genome Sequencing Announcement**
-   Announcement explaining the development of Tempus's first whole-genome sequencing assay.
-   https://www.tempus.com/news/pr/tempus-announces-its-first-ever-whole-genome-sequencing-assay-xh/
+4. [Tempus AI – xH Whole-Genome Sequencing Announcement](https://www.tempus.com/news/pr/tempus-announces-its-first-ever-whole-genome-sequencing-assay-xh/)  
+   Announcement about Tempus's first whole-genome sequencing assay.
 
-5. **Tempus AI – Life Sciences Sequencing**
-   Information about Tempus's different sequencing technologies and genomic testing services.
-   https://www.tempus.com/solutions/life-sciences-sequencing/
+5. [Tempus AI – Life Sciences Sequencing](https://www.tempus.com/solutions/life-sciences-sequencing/)  
+   Information about Tempus's sequencing technologies and genomic testing services.
